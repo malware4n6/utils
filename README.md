@@ -11,3 +11,9 @@ gitmon.sh $ROOT_FOLDER
 ```
 
 For more details, read the header of [gitmon.sh](gitmon.sh).
+
+## Rich Header to Yara
+
+```sh
+python3 rh2yara.py -i some.exe -o some.yara
+```
